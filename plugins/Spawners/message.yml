@@ -1,0 +1,3 @@
+commands:
+  spawner:
+    give: '&6You gave&f {target}&6 {amount}&f {entity}&6 Spawner'

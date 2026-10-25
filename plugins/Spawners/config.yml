@@ -1,0 +1,6 @@
+notify-update: true
+spawner:
+  display: '&dSpawner&f: {entity_type}'
+  lore:
+  - '&9Obtained by:'
+  - '&fSilk Touch'

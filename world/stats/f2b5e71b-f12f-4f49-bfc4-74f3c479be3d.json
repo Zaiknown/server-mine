@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:red_mushroom": 1,
+      "minecraft:tall_grass": 1,
+      "minecraft:deepslate": 17,
+      "minecraft:deepslate_iron_ore": 1,
+      "minecraft:clay": 2,
+      "minecraft:iron_ore": 1,
+      "minecraft:stone": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 3,
+      "minecraft:skeleton": 2,
+      "minecraft:cave_spider": 5,
+      "minecraft:skeleton_horse": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 1,
+      "minecraft:bone": 1,
+      "minecraft:arrow": 3,
+      "minecraft:cobbled_deepslate": 17,
+      "minecraft:raw_iron": 2
+    },
+    "minecraft:used": {
+      "minecraft:cobbled_deepslate": 17,
+      "minecraft:diamond_pickaxe": 22,
+      "minecraft:diamond_sword": 52,
+      "minecraft:diamond_shovel": 3,
+      "minecraft:firework_rocket": 11,
+      "minecraft:golden_carrot": 10,
+      "minecraft:cobblestone": 14
+    },
+    "minecraft:dropped": {
+      "minecraft:glow_berries": 1,
+      "minecraft:leaf_litter": 17
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 23107,
+      "minecraft:walk_one_cm": 62514,
+      "minecraft:leave_game": 2,
+      "minecraft:horse_one_cm": 1784,
+      "minecraft:walk_under_water_one_cm": 5105,
+      "minecraft:mob_kills": 12,
+      "minecraft:damage_taken": 917,
+      "minecraft:play_time": 23107,
+      "minecraft:damage_dealt": 2012,
+      "minecraft:open_shulker_box": 1,
+      "minecraft:jump": 280,
+      "minecraft:time_since_death": 23107,
+      "minecraft:aviate_one_cm": 39920,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 55677,
+      "minecraft:open_chest": 5,
+      "minecraft:fall_one_cm": 8430,
+      "minecraft:total_world_time": 23107,
+      "minecraft:swim_one_cm": 3374,
+      "minecraft:fly_one_cm": 38712,
+      "minecraft:walk_on_water_one_cm": 4258,
+      "minecraft:crouch_one_cm": 171,
+      "minecraft:sneak_time": 48,
+      "minecraft:climb_one_cm": 3921
+    }
+  },
+  "DataVersion": 4671
+}
